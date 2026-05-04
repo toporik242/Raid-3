@@ -1,4 +1,4 @@
-local url = "https://raw.githubusercontent.com/toporik242/Raid-/ad38c7a93a5517a342329be983a03b2a1cf45d74/Raid%E1%B5%97%E1%B5%90?token=GHSAT0AAAAAAD24QXGO2TA4AXGR6OF2U3F22PXJNLA"
+local url = "https://raw.githubusercontent.com/toporik242/Raid-3/refs/heads/main/Raid"
 
 local repo = "https://raw.githubusercontent.com/deividcomsono/Obsidian/main/"
 local Library = loadstring(game:HttpGet(repo .. "Library.lua"))()
